@@ -9,3 +9,5 @@ def power(a, N):
         return a * power(a, N-1)
 
 print(power(3,4))
+
+print('first branch')
