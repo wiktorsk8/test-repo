@@ -1,4 +1,4 @@
 print(__name__, "change made here")
-
-print("feature a")
+x = 10
+print("feature a", 10)
 
